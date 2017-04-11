@@ -1,0 +1,8 @@
+E:\练习\序列化和反序列化\GIDIPCR\GIDIPCR\bin\x64\Debug\GIDIPCR.exe.config
+E:\练习\序列化和反序列化\GIDIPCR\GIDIPCR\bin\x64\Debug\GIDIPCR.exe
+E:\练习\序列化和反序列化\GIDIPCR\GIDIPCR\bin\x64\Debug\GIDIPCR.pdb
+E:\练习\序列化和反序列化\GIDIPCR\GIDIPCR\obj\x64\Debug\GIDIPCR.Form1.resources
+E:\练习\序列化和反序列化\GIDIPCR\GIDIPCR\obj\x64\Debug\GIDIPCR.Properties.Resources.resources
+E:\练习\序列化和反序列化\GIDIPCR\GIDIPCR\obj\x64\Debug\GIDIPCR.csproj.GenerateResource.Cache
+E:\练习\序列化和反序列化\GIDIPCR\GIDIPCR\obj\x64\Debug\GIDIPCR.exe
+E:\练习\序列化和反序列化\GIDIPCR\GIDIPCR\obj\x64\Debug\GIDIPCR.pdb
